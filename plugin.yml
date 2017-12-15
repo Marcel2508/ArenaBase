@@ -1,0 +1,21 @@
+name: ArenaBase
+main: Marcel2508\arenabase\ArenaBase
+version: 1.0.0
+api: [3.0.0-ALPHA10]
+load: STARTUP
+author: Marcel2508
+description: A plugin API for easy arena management
+
+#commands:
+# lv:
+#  usage: /lv [clear/#vaultNo/help] [#vaultNo (if clear is given)]
+#  aliases: ["leetvault"]
+  #permission: leetvault.vault.use
+# lva:
+#  usage: /lva <#vaultNo/clear/setlimit> <playername/(#vaultNo/all)/#limit> [playername (if clear is given)]
+#  aliases: ["leetvaultadmin"]
+  #permission: leetvault.admin.view
+#permissions:
+#    leetvault.vault.use:
+#        default: false
+#        description: Allows players to use vaults
